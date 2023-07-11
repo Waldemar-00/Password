@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+label {
+  margin-right: 20px;
+}
+.check {
+  margin-left: 20px;
+}
